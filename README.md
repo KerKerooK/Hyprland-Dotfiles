@@ -1,1 +1,1 @@
-# Hyprland-Dotfiles
+# Hyprland Dotfiles
